@@ -1,0 +1,20 @@
+2025-11-07 13:33:01 INFO  LoggingTest - Info Message - Normal flow information
+2025-11-07 13:33:01 WARN  LoggingTest - Warning Message - Something might be off
+2025-11-07 13:33:01 ERROR LoggingTest - Error Message - Something failed
+2025-11-07 13:33:01 FATAL LoggingTest - Fatal Message - Critical system failure
+2025-11-07 13:34:44 INFO  LoggingTest - Info Message - Normal flow information
+2025-11-07 13:34:44 WARN  LoggingTest - Warning Message - Something might be off
+2025-11-07 13:34:44 ERROR LoggingTest - Error Message - Something failed
+2025-11-07 13:34:44 FATAL LoggingTest - Fatal Message - Critical system failure
+2025-11-07 13:36:06 INFO  LoggingTest - Info Message — Normal flow information
+2025-11-07 13:36:06 WARN  LoggingTest - Warning Message — Something might be off
+2025-11-07 13:36:06 ERROR LoggingTest - Error Message — Something failed
+2025-11-07 13:36:06 FATAL LoggingTest - Fatal Message — Critical system failure
+2025-11-07 13:36:39 INFO  LoggingTest - Info Message — Normal flow information
+2025-11-07 13:36:39 WARN  LoggingTest - Warning Message — Something might be off
+2025-11-07 13:36:39 ERROR LoggingTest - Error Message — Something failed
+2025-11-07 13:36:39 FATAL LoggingTest - Fatal Message — Critical system failure
+2025-11-07 15:13:11 INFO  LoggingTest - Info Message — Normal flow information
+2025-11-07 15:13:11 WARN  LoggingTest - Warning Message — Something might be off
+2025-11-07 15:13:11 ERROR LoggingTest - Error Message — Something failed
+2025-11-07 15:13:11 FATAL LoggingTest - Fatal Message — Critical system failure
